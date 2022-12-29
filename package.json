@@ -12,7 +12,7 @@
     "react-dom": "^16.4.1",
     "react-flexbox-grid": "^2.1.2",
     "react-redux": "^6.0.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react-weathericons": "^1.0.4",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
@@ -25,7 +25,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "css-loader": "^1.0.0",
-    "style-loader": "^0.21.0"
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1"
   }
 }
